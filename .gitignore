@@ -1,0 +1,6 @@
+.venv/
+target/
+*.o
+*.out
+a.out
+
